@@ -25,6 +25,7 @@ It demonstrates proper use of HTML structure (like `<section>`, `<figure>`, `<bl
 Focus was on **accessibility, responsiveness, and readability**.
 
 📂 [View Code](./TRIBUTE-PAGE)
+
 ![Tribute Page](./assets/tribute_page.jpg)
 
 ---
@@ -36,6 +37,7 @@ Includes labels, form validation, and responsive layout using Flexbox.
 It mimics a real-world data collection form and ensures usability across devices.
 
 📂 [View Code](./SURVEY-FORM)
+
 ![Survey Form](./assets/survey_form.jpg)
 
 ---
@@ -47,6 +49,7 @@ Built using Flexbox for layout and media queries for responsiveness.
 Focus was on **navigability, content hierarchy, and code readability**.
 
 📂 [View Code](./TECHNICAL-DOCUMENTATION-PAGE)
+
 ![Technical Documentation](./assets/tech_doc.jpg)
 
 ---
@@ -58,6 +61,7 @@ This project involved organizing content with clear CTAs, using Flexbox and medi
 Includes responsive layout, embedded media, and functional navigation links.
 
 📂 [View Code](./PRODUCT-LANDING-PAGE)
+
 ![Product Landing Page](./assets/product_landing_page.jpg)
 
 ---
@@ -86,9 +90,7 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 ## ✅ Certificate of Completion
 
 > I have successfully completed the **Responsive Web Design Certification** from freeCodeCamp by building and submitting all required projects.
-<p>
-   <a href="https://www.freecodecamp.org/certification/Bhuvi_27/responsive-web-design"><img src="https://img.shields.io/badge/View_Certificate-29a329?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" width="40" height="40"/></a> Certificate
-</p>
+![Certificate](./assets/Free_code_camp_Web_Design.png)
 
 
 ---
@@ -104,4 +106,4 @@ This project demonstrates practical use of **responsive design, modern UI, and s
   <a href="https://github.com/BHUVANESH-SSN"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a> Github
   
 </p>
----
+
