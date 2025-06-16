@@ -25,7 +25,7 @@ It demonstrates proper use of HTML structure (like `<section>`, `<figure>`, `<bl
 Focus was on **accessibility, responsiveness, and readability**.
 
 📂 [View Code](./TRIBUTE-PAGE)
-![Tribute Page](./assets/tribute_page.png)
+![Tribute Page](./assets/tribute_page.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ Includes labels, form validation, and responsive layout using Flexbox.
 It mimics a real-world data collection form and ensures usability across devices.
 
 📂 [View Code](./SURVEY-FORM)
-![Survey Form](./assets/survey_form.png)
+![Survey Form](./assets/survey_form.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Built using Flexbox for layout and media queries for responsiveness.
 Focus was on **navigability, content hierarchy, and code readability**.
 
 📂 [View Code](./TECHNICAL-DOCUMENTATION-PAGE)
-![Technical Documentation](./assets/tech_doc.png)
+![Technical Documentation](./assets/tech_doc.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ This project involved organizing content with clear CTAs, using Flexbox and medi
 Includes responsive layout, embedded media, and functional navigation links.
 
 📂 [View Code](./PRODUCT-LANDING-PAGE)
-![Product Landing Page](./assets/product_landing.png)
+![Product Landing Page](./assets/product_landing.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ A multi-section portfolio website to showcase personal projects, certifications,
 Features include smooth scrolling, hover effects, responsive image scaling, and a dark-themed UI with glowing text.  
 This project demonstrates practical use of **responsive design, modern UI, and semantic HTML**.
 
-📂 [View Code](./personal-portfolio)
+📂 [View Code](./PERSONAL-PORTFOLIO-PAGE)
 ![Demo Video of Portfolio ](./assets/portfolio.mp4)
 
 ---
