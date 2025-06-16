@@ -18,29 +18,29 @@ The certification involves building five HTML & CSS projects that showcase moder
 
 ## 📁 Projects Included
 
-### 1. 🏛️ Tribute Page
+### 1. 📢 Product Landing Page
 
-A clean, semantic web page dedicated to a historical or notable figure.  
-It demonstrates proper use of HTML structure (like `<section>`, `<figure>`, `<blockquote>`), and is fully responsive across screen sizes.  
-Focus was on **accessibility, responsiveness, and readability**.
+A professional landing page promoting a product, service, or event.  
+This project involved organizing content with clear CTAs, using Flexbox and media queries to ensure adaptability and visual clarity.  
+Includes responsive layout, embedded media, and functional navigation links.
 
-📂 [View Code](./TRIBUTE-PAGE)
+📂 [View Code](./PRODUCT-LANDING-PAGE)
 
-![Tribute Page](./assets/tribute_page.jpg)
+![Product Landing Page](./assets/product_landing_page.jpg)
+
+---
+
+### 2. 🌐 Personal Portfolio Webpage
+
+A multi-section portfolio website to showcase personal projects, certifications, and contact links.  
+Features include smooth scrolling, hover effects, responsive image scaling, and a dark-themed UI with glowing text.  
+This project demonstrates practical use of **responsive design, modern UI, and semantic HTML**.
+
+📂 [View Code](./PERSONAL-PORTFOLIO-PAGE)
+![Demo Video of Portfolio ](./assets/portfolio.mp4)
 
 ---
 
-### 2. 🧾 Survey Form
-
-A responsive survey form that collects user feedback with various input types like radio buttons, checkboxes, dropdowns, and textarea.  
-Includes labels, form validation, and responsive layout using Flexbox.  
-It mimics a real-world data collection form and ensures usability across devices.
-
-📂 [View Code](./SURVEY-FORM)
-
-![Survey Form](./assets/survey_form.jpg)
-
----
 
 ### 3. 📄 Technical Documentation Page
 
@@ -54,28 +54,34 @@ Focus was on **navigability, content hierarchy, and code readability**.
 
 ---
 
-### 4. 📢 Product Landing Page
+### 4. 🧾 Survey Form
 
-A professional landing page promoting a product, service, or event.  
-This project involved organizing content with clear CTAs, using Flexbox and media queries to ensure adaptability and visual clarity.  
-Includes responsive layout, embedded media, and functional navigation links.
+A responsive survey form that collects user feedback with various input types like radio buttons, checkboxes, dropdowns, and textarea.  
+Includes labels, form validation, and responsive layout using Flexbox.  
+It mimics a real-world data collection form and ensures usability across devices.
 
-📂 [View Code](./PRODUCT-LANDING-PAGE)
+📂 [View Code](./SURVEY-FORM)
 
-![Product Landing Page](./assets/product_landing_page.jpg)
+![Survey Form](./assets/survey_form.jpg)
+
+---
+
+### 5. 🏛️ Tribute Page
+
+A clean, semantic web page dedicated to a historical or notable figure.  
+It demonstrates proper use of HTML structure (like `<section>`, `<figure>`, `<blockquote>`), and is fully responsive across screen sizes.  
+Focus was on **accessibility, responsiveness, and readability**.
+
+📂 [View Code](./TRIBUTE-PAGE)
+
+![Tribute Page](./assets/tribute_page.jpg)
 
 ---
 
-### 5. 🌐 Personal Portfolio Webpage
 
-A multi-section portfolio website to showcase personal projects, certifications, and contact links.  
-Features include smooth scrolling, hover effects, responsive image scaling, and a dark-themed UI with glowing text.  
-This project demonstrates practical use of **responsive design, modern UI, and semantic HTML**.
 
-📂 [View Code](./PERSONAL-PORTFOLIO-PAGE)
-![Demo Video of Portfolio ](./assets/portfolio.mp4)
 
----
+
 
 ## 🛠️ Tech Stack Used
 
