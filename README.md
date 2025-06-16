@@ -95,7 +95,7 @@ Focus was on **accessibility, responsiveness, and readability**.
 
 ## ✅ Certificate of Completion
 
-> I have successfully completed the **Responsive Web Design Certification** from freeCodeCamp by building and submitting all required projects.
+
 ![Certificate](./assets/Free_code_camp_Web_Design.png)
 
 
