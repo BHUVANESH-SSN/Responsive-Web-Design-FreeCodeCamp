@@ -48,7 +48,17 @@ Focus was on **navigability, content hierarchy, and code readability**.
 
 ---
 
-### 4. 🌐 Personal Portfolio Webpage
+### 4. 📢 Product Landing Page
+
+A professional landing page promoting a product, service, or event.  
+This project involved organizing content with clear CTAs, using Flexbox and media queries to ensure adaptability and visual clarity.  
+Includes responsive layout, embedded media, and functional navigation links.
+
+📂 [View Code](./product-landing-page)
+
+---
+
+### 5. 🌐 Personal Portfolio Webpage
 
 A multi-section portfolio website to showcase personal projects, certifications, and contact links.  
 Features include smooth scrolling, hover effects, responsive image scaling, and a dark-themed UI with glowing text.  
@@ -79,9 +89,9 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 ## 📬 Contact
 
 **👨‍💻 Author:** Bhuvanesh S  
+🎓 3rd Year Computer Science Student at SSN College of Engineering  
 📧 Email: bhuvaneshcsessn@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhuvanesh-s)  
-🔗 [GitHub](https://github.com/Bhuvanesh-2403)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanesh-s)  
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhuvanesh-2403)
 
 ---
-
