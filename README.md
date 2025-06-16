@@ -58,7 +58,7 @@ This project involved organizing content with clear CTAs, using Flexbox and medi
 Includes responsive layout, embedded media, and functional navigation links.
 
 📂 [View Code](./PRODUCT-LANDING-PAGE)
-![Product Landing Page](./assets/product_landing.jpg)
+![Product Landing Page](./assets/product_landing_page.jpg)
 
 ---
 
@@ -96,7 +96,7 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 **👨‍💻 Author:** Bhuvanesh S  
 🎓 3rd Year Computer Science Student at SSN College of Engineering  
 📧 Email: bhuvaneshcsessn@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhuvanesh-cse)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()![LinkedIN](www.linkedin.com/in/bhuvanesh-cse)  
 [![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHUVANESH-SSN)
 
 ---
