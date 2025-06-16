@@ -82,7 +82,7 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 
 > I have successfully completed the **Responsive Web Design Certification** from freeCodeCamp by building and submitting all required projects.
 
-[![View Certificate](https://img.shields.io/badge/View_Certificate-29a329?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/bhuvanesh-s/responsive-web-design)
+[![View Certificate]()
 
 ---
 
@@ -91,7 +91,7 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 **👨‍💻 Author:** Bhuvanesh S  
 🎓 3rd Year Computer Science Student at SSN College of Engineering  
 📧 Email: bhuvaneshcsessn@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanesh-s)  
-[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhuvanesh-2403)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhuvanesh-cse)  
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHUVANESH-SSN)
 
 ---
