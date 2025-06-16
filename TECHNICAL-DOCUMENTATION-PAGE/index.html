@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+  body {
+    font-family: "Times New Roman", Times, serif;
+  }
+</style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JPMorgan Chase Forage Technical Documentation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav id="navbar">
+    <header>Documentation Menu</header>
+    <a class="nav-link" href="#About_the_Project">About the Project</a>
+    <a class="nav-link" href="#Tech_Stack">Tech Stack</a>
+    <a class="nav-link" href="#Setup_&_Dependencies">Setup & Dependencies</a>
+    <a class="nav-link" href="#Kafka_Integration">Kafka Integration</a>
+    <a class="nav-link" href="#Validation_and_Database">Validation and Database</a>
+    <a class="nav-link" href="#Incentive_API">Incentive API</a>
+    <a class="nav-link" href="#REST_Endpoint">REST Endpoint</a>
+    <a class="nav-link" href="#Certificate">Certificate</a>
+    <a class="nav-link" href="#Links">Links</a>
+    <a class="nav-link" href="#Author">Author</a>
+  </nav>
+
+  <main id="main-doc">
+    <section class="main-section" id="About_the_Project">
+      <header>About the Project</header>
+      <p>The JPMorgan Chase Midas Core backend project simulates transaction handling in a banking environment.</p>
+      <p>It includes asynchronous processing, validation, and an external API for applying incentives.</p>
+      <code>// Simulated explanation of transaction streaming</code>
+    </section>
+
+    <section class="main-section" id="Tech_Stack">
+      <header>Tech Stack</header>
+      <ul>
+        <li>Java 17</li>
+        <li>Spring Boot</li>
+        <li>Apache Kafka</li>
+        <li>JUnit</li>
+        <li>H2 Database with JPA</li>
+        <li>Maven</li>
+      </ul>
+      <p>These technologies helped simulate real-world backend systems effectively.</p>
+      <code>// Example: @SpringBootApplication</code>
+    </section>
+
+    <section class="main-section" id="Setup_&_Dependencies">
+      <header>Setup & Dependencies</header>
+      <p>Cloned the repository and configured dependencies using Maven.</p>
+      <p>Added dependencies for Kafka, JPA, H2, and Spring Web.</p>
+      <code>&lt;dependency&gt;...Kafka...&lt;/dependency&gt;</code>
+      <code>spring.datasource.url=jdbc:h2:mem:testdb</code>
+    </section>
+
+    <section class="main-section" id="Kafka_Integration">
+      <header>Kafka Integration</header>
+      <p>KafkaListener consumes incoming transactions asynchronously.</p>
+      <p>Used @KafkaListener annotation for topic-based message consumption.</p>
+      <code>@KafkaListener(topics = "transactions")</code>
+      <code>public void receive(Transaction txn) {...}</code>
+    </section>
+
+    <section class="main-section" id="Validation_and_Database">
+      <header>Validation and Database</header>
+      <p>Validated sender/receiver details before storing data.</p>
+      <p>Used H2 database and JPA repositories for data persistence.</p>
+      <code>Optional&lt;User&gt; user = repo.findById(id);</code>
+      <code>if (user.getBalance() &gt;= txn.amount)</code>
+    </section>
+
+    <section class="main-section" id="Incentive_API">
+      <header>Incentive API</header>
+      <p>Integrated external REST API provided via a JAR file.</p>
+      <p>Used RESTTemplate to send request and update balance accordingly.</p>
+      <code>restTemplate.postForObject(url, request, Response.class)</code>
+    </section>
+
+    <section class="main-section" id="REST_Endpoint">
+      <header>REST Endpoint</header>
+      <p>Created an endpoint to query user balance using userId.</p>
+      <p>Mapped to `/balance?userId=` and handled via Spring Controller.</p>
+      <code>@GetMapping("/balance")</code>
+      <code>public double getBalance(@RequestParam String userId)</code>
+    </section>
+
+    <section class="main-section" id="Certificate">
+      <header>Certificate</header>
+      <p>Here's my completion certificate for the JPMorgan Chase Forage simulation.</p>
+      <img src="https://github.com/BHUVANESH-SSN/JPMorgan-Chase-Virtual-Internship/blob/main/assets/JP_MORGAN_CERTIFICATE.png?raw=true" alt="JPMorgan Certificate">
+    </section>
+
+    <section class="main-section" id="Links">
+      <header>Links</header>
+      <p>Check out the full project on GitHub:</p>
+      <a href="https://github.com/BHUVANESH-SSN/JPMorgan-Chase-Virtual-Internship" target="_blank">GitHub Repository</a>
+    </section>
+
+    <section class="main-section" id="Author">
+      <header>Author</header>
+      <p><strong>Bhuvanesh S</strong></p>
+      <p>Pre-final year student, SSN College of Engineering</p>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/bhuvanesh-cse" target="_blank">LinkedIn</a></li>
+        <li><a href="mailto:bhuvaneshcsessn@gmail.com">Email</a></li>
+      </ul>
+    </section>
+  </main>
+  </body>
+</html>

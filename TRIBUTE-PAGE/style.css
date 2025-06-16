@@ -1,0 +1,101 @@
+:root {
+  --primary-color: #3a0ca3;
+  --secondary-color: #7209b7;
+  --highlight-color: #f72585;
+  --text-color: #1d1d1f;
+  --background-color: #fdf0ff;
+  --white: #fff;
+  --font-family: 'Segoe UI', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--background-color);
+  color: var(--text-color);
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+#main {
+  max-width: 900px;
+  width: 100%;
+  background-color: var(--white);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+}
+
+#title {
+  font-size: 2.2rem;
+  text-align: center;
+  color: var(--primary-color);
+  margin-bottom: 2rem;
+}
+
+#img-div {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(58, 12, 163, 0.3);
+}
+
+#img-caption {
+  margin-top: 1rem;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--secondary-color);
+}
+
+#tribute-info {
+  font-size: 1.05rem;
+  margin-top: 1.5rem;
+}
+
+#tribute-info h2 {
+  color: var(--highlight-color);
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+}
+
+#tribute-info ul {
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: #444;
+}
+
+#tribute-info ul li {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+  list-style-type: square;
+}
+
+#tribute-link {
+  display: inline-block;
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--white);
+  background-color: var(--highlight-color);
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+#tribute-link:hover {
+  background-color: #c9184a;
+}
