@@ -24,7 +24,8 @@ A clean, semantic web page dedicated to a historical or notable figure.
 It demonstrates proper use of HTML structure (like `<section>`, `<figure>`, `<blockquote>`), and is fully responsive across screen sizes.  
 Focus was on **accessibility, responsiveness, and readability**.
 
-📂 [View Code](./tribute-page)
+📂 [View Code](./TRIBUTE-PAGE)
+![Tribute Page](./assets/tribute_page.png)
 
 ---
 
@@ -34,7 +35,8 @@ A responsive survey form that collects user feedback with various input types li
 Includes labels, form validation, and responsive layout using Flexbox.  
 It mimics a real-world data collection form and ensures usability across devices.
 
-📂 [View Code](./survey-form)
+📂 [View Code](./SURVEY-FORM)
+![Survey Form](./assets/survey_form.png)
 
 ---
 
@@ -44,7 +46,8 @@ A sidebar-based documentation layout that mimics technical docs like MDN or deve
 Built using Flexbox for layout and media queries for responsiveness.  
 Focus was on **navigability, content hierarchy, and code readability**.
 
-📂 [View Code](./technical-documentation)
+📂 [View Code](./TECHNICAL-DOCUMENTATION-PAGE)
+![Technical Documentation](./assets/tech_doc.png)
 
 ---
 
@@ -54,7 +57,8 @@ A professional landing page promoting a product, service, or event.
 This project involved organizing content with clear CTAs, using Flexbox and media queries to ensure adaptability and visual clarity.  
 Includes responsive layout, embedded media, and functional navigation links.
 
-📂 [View Code](./product-landing-page)
+📂 [View Code](./PRODUCT-LANDING-PAGE)
+![Product Landing Page](./assets/product_landing.png)
 
 ---
 
@@ -65,6 +69,7 @@ Features include smooth scrolling, hover effects, responsive image scaling, and 
 This project demonstrates practical use of **responsive design, modern UI, and semantic HTML**.
 
 📂 [View Code](./personal-portfolio)
+![Demo Video of Portfolio ](./assets/portfolio.mp4)
 
 ---
 
@@ -82,7 +87,7 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 
 > I have successfully completed the **Responsive Web Design Certification** from freeCodeCamp by building and submitting all required projects.
 
-[![View Certificate]()
+[![View Certificate](https://www.freecodecamp.org/certification/Bhuvi_27/responsive-web-design)
 
 ---
 
