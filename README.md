@@ -86,8 +86,10 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 ## ✅ Certificate of Completion
 
 > I have successfully completed the **Responsive Web Design Certification** from freeCodeCamp by building and submitting all required projects.
+<p>
+   <a href="https://www.freecodecamp.org/certification/Bhuvi_27/responsive-web-design"><img src="https://img.shields.io/badge/View_Certificate-29a329?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" width="40" height="40"/></a> Certificate
+</p>
 
-[![View Certificate](https://www.freecodecamp.org/certification/Bhuvi_27/responsive-web-design)
 
 ---
 
@@ -97,9 +99,9 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 🎓 3rd Year Computer Science Student at SSN College of Engineering  
 📧 Email: bhuvaneshcsessn@gmail.com  
 <p>
-  <a href="https://www.linkedin.com/in/bhuvanesh-cse/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/bhuvanesh-cse/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> Linked IN
   
-  <a href="https://github.com/BHUVANESH-SSN"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://github.com/BHUVANESH-SSN"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a> Github
   
 </p>
 ---
