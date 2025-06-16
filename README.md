@@ -96,7 +96,10 @@ This project demonstrates practical use of **responsive design, modern UI, and s
 **👨‍💻 Author:** Bhuvanesh S  
 🎓 3rd Year Computer Science Student at SSN College of Engineering  
 📧 Email: bhuvaneshcsessn@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()![LinkedIN](www.linkedin.com/in/bhuvanesh-cse)  
-[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHUVANESH-SSN)
-
+<p>
+  <a href="https://www.linkedin.com/in/bhuvanesh-cse/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+  
+  <a href="https://github.com/BHUVANESH-SSN"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+  
+</p>
 ---
