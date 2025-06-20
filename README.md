@@ -95,7 +95,6 @@ Focus was on **accessibility, responsiveness, and readability**.
 
 ## ✅ Certificate of Completion
 
-
 ![Certificate](./assets/Free_code_camp_Web_Design.png)
 
 
